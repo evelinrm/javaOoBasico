@@ -1,4 +1,4 @@
-package com.testAutomationCoach.dEncapsulacion;
+package dEncapsulacion;
 
 public class Triangulo {
 	

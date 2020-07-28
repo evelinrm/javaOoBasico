@@ -1,4 +1,4 @@
-package com.testAutomationCoach.eHerencia.doctores;
+package eHerencia.doctores;
 
 public class ProfesionalDeSalud {
 

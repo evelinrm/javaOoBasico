@@ -1,9 +1,16 @@
-package com.testAutomationCoach.aAbstraccion;
+package aAbstraccion;
 
 public class Button {
+	
+	//atributos
     String label;
     String color;
-
+    int pixelesX;
+    int pixelesY;
+    int posicionX;
+    int posicionY;
+    
+    //metodos
     public void setColor(String myColor) {}
 
     public void setLabel(String myLabel) {}

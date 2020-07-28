@@ -1,4 +1,4 @@
-package com.testAutomationCoach.eHerencia.animals;
+package eHerencia.animals;
 
 public class Leon  extends Animal {
 

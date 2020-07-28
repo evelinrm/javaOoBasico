@@ -1,4 +1,4 @@
-package com.testAutomationCoach.libs;
+package libs;
 
 public class Coordenadas {
     public double longitud;

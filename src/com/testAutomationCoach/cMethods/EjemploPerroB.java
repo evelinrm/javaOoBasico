@@ -1,6 +1,6 @@
-package com.testAutomationCoach.cMethods;
+package cMethods;
 
-import com.testAutomationCoach.aAbstraccion.Perro;
+import aAbstraccion.Perro;
 
 public class EjemploPerroB {
     public static void main(String[] args) {

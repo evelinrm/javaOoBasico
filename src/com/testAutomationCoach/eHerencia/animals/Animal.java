@@ -1,6 +1,6 @@
-package com.testAutomationCoach.eHerencia.animals;
+package eHerencia.animals;
 
-import com.testAutomationCoach.libs.Coordenadas;
+import libs.Coordenadas;
 
 import java.io.File;
 

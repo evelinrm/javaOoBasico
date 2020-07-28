@@ -1,4 +1,4 @@
-package com.testAutomationCoach.aAbstraccion;
+package aAbstraccion;
 
 class TapeDeck {
 

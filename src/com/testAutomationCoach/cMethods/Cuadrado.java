@@ -1,4 +1,4 @@
-package com.testAutomationCoach.cMethods;
+package cMethods;
 
 public class Cuadrado {
 	

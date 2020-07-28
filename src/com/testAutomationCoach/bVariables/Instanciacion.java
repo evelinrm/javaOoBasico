@@ -1,7 +1,7 @@
-package com.testAutomationCoach.bVariables;
+package bVariables;
 
-import com.testAutomationCoach.aAbstraccion.Articulo;
-import com.testAutomationCoach.aAbstraccion.Perro;
+import aAbstraccion.Articulo;
+import aAbstraccion.Perro;
 
 public class Instanciacion {
 

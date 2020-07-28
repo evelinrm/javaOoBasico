@@ -1,4 +1,4 @@
-package com.testAutomationCoach.bVariables;
+package bVariables;
 
 class Hobbit {
 

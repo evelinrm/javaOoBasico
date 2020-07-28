@@ -1,4 +1,4 @@
-package com.testAutomationCoach.aAbstraccion;
+package aAbstraccion;
 
 public class Cancion {
     //atributos: titulo, artista, duracion, letra, anio lanzamiento

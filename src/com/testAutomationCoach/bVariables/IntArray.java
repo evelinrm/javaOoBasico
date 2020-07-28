@@ -1,4 +1,4 @@
-package com.testAutomationCoach.bVariables;
+package bVariables;
 
 public class IntArray {
     public static void main(String[] args) {

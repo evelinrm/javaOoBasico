@@ -1,6 +1,6 @@
-package com.testAutomationCoach.bVariables;
+package bVariables;
 
-import com.testAutomationCoach.aAbstraccion.Cancion;
+import aAbstraccion.Cancion;
 
 public class AsignacionReferencia {
     public static void main(String[] args) {
