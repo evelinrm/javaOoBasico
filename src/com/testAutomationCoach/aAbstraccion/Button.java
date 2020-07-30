@@ -3,12 +3,12 @@ package aAbstraccion;
 public class Button {
 	
 	//atributos
-    String label;
-    String color;
-    int pixelesX;
-    int pixelesY;
-    int posicionX;
-    int posicionY;
+    public String label;
+    public String color;
+    public int pixelesX;
+    public int pixelesY;
+    public int posicionX;
+    public int posicionY;
     
     //metodos
     public void setColor(String myColor) {}

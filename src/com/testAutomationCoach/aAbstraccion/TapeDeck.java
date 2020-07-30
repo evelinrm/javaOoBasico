@@ -21,13 +21,14 @@ class TapeDeckTestDrive {
     public static void main(String [] args) {
 
 //Por que no compilan las instrucciones de abajo?
-//        t.canRecord = true;
-//        t.playTape();
-//
-//
-//        if (t.canRecord == true) {
-//            t.recordTape();
-//
-//        }
+    	TapeDeck t = new TapeDeck();
+        t.canRecord = true;
+        t.playTape();
+
+
+        if (t.canRecord == true) {
+            t.recordTape();
+
+        }
     }
 }
