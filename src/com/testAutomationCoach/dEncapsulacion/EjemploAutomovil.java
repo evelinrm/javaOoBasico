@@ -2,16 +2,16 @@ package dEncapsulacion;
 
 public class EjemploAutomovil {
 
-	public static void main(String[] args) {
-		Automovil a1 = new Automovil();
-		a1.acelerar();
-		a1.frenar();
-		a1.retroceder();
+	public static void main(String[] args) { //crea Main
+		Automovil a1 = new Automovil(); //crea automovil a1 con variables default de automovil()
+		a1.acelerar();		//lo acelera	
+		a1.frenar();		//lo frena
+		a1.retroceder();	//lo hace retroceder 
 
-		Automovil a2 = new Automovil("Chrysler", 250.0, "Automatico", 5, 4);
-		a2.acelerar();
-		a2.frenar();
-		a2.retroceder();
+		Automovil a2 = new Automovil("Chrysler", 250.0, "Automatico", 5, 4); 	//crea automovil a2 con variables asignadas
+		a2.acelerar(); //lo acelera
+		a2.frenar(); //lo frena
+		a2.retroceder(); //lo hace retroceder
 	}
 
 }
