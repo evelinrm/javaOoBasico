@@ -1,19 +1,28 @@
 package aAbstraccion;
 
 public class Escuela {
-	Edificio [] edifs;
-	Persona [] personas;
-	//Directivo dire;
-	Maestro [] profes;
+	Edificio [] edificios;
+	Persona [] personal;
 }
-		/*
+		
 	class Edificio{
-		//salones, vias de acceso
+		int nEdificio;
+		double areaEdificio;
+		Salon[] salones;
 	}
 	class Salon {
-		//mobiliario
+		String id;
+		int capacidadButacas;
+		Inmobiliario[] muebles;
 	}
 	class Persona {
-	
+		String nombre;
+		char sex;
+		String cargo;
 	}
-	*/
+	
+	class Inmobiliario{
+		String idInventario;
+		String tipo;
+	}
+	
