@@ -1,6 +1,6 @@
 package eHerencia.animals;
 
-public class Hipopotamo  extends Animal {
+public class Hipopotamo extends Paquidermo {
 
     public void hacerRuido() {
         System.out.println("Muuuu");

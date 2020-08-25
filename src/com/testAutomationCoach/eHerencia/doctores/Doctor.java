@@ -7,6 +7,9 @@ public class Doctor extends ProfesionalDeSalud{
     public void prescribirMedicina() {}
 
     public String getEspecialidad() {
-        return null;
+        return this.especialidad;
+    }
+    public void setEspecialidad(String especialidad) {
+    	this.especialidad = especialidad;
     }
 }

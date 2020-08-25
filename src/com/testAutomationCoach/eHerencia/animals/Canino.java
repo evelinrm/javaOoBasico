@@ -1,5 +1,5 @@
 package eHerencia.animals;
-
+					//is-a-?
 public class Canino extends Animal {
 
     public void recorrerTerreno() {

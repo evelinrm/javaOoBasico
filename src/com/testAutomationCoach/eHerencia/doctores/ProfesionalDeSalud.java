@@ -4,6 +4,13 @@ public class ProfesionalDeSalud {
 
     String nombre;
     String profesion;
+    
+    public ProfesionalDeSalud(String nombre, String profesion) {
+    	this.nombre = nombre;
+    	this.profesion = profesion;
+    }
+    
+    public ProfesionalDeSalud() {}
 
     public void tratarPaciente() {}
 

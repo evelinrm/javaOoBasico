@@ -1,6 +1,6 @@
 package eHerencia.animals;
 
-public class Leon  extends Animal {
+public class Leon  extends Felino {
 
     public void hacerRuido() {
         System.out.println("rugido de trueno!");

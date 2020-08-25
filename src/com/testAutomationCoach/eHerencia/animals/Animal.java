@@ -5,24 +5,16 @@ import libs.Coordenadas;
 import java.io.File;
 
 public class Animal {
-	private File picture;
+	//has-a?
+	private File picture; //archivo	
 	private char comida; //Carne o Vegetales o ambos
 	private int nivelHambre; //1-100
 	private String habitat; //selva, bosque, desierto, etc.
 	private Coordenadas location;
 	
+	//behavior
 	public void hacerRuido() {}
 	public void comer() {}
 	public void dormir() {}
 	public void recorrerTerreno() {}
-
-	public static class Canino extends Animal {
-
-		public void recorrerTerreno() {}
-	}
-
-	public static class Felino extends Animal {
-
-		public void recorrerTerreno() {}
-	}
 }

@@ -7,7 +7,11 @@ public class EjemploAnimales {
         ani.hacerRuido();
         ani.dormir();
         //etc
-
+        
+        Lobo lupus = new Lobo();
+        lupus.comer();
+        lupus.hacerRuido();
+        
         Leon rey = new Leon();
         rey.hacerRuido();
         rey.dormir();
