@@ -4,7 +4,8 @@ import libs.Coordenadas;
 
 import java.io.File;
 
-public class Animal {
+public class Animal { 	//crea clase animal
+	//declarar atributos
 	//has-a?
 	private File picture; //archivo	
 	private char comida; //Carne o Vegetales o ambos

@@ -1,11 +1,11 @@
 package eHerencia.animals;
 
-public class Hipopotamo extends Paquidermo {
+public class Hipopotamo extends Paquidermo {	//clase Hipopotamo extiende paquidermo
 
-    public void hacerRuido() {
-        System.out.println("Muuuu");
+    public void hacerRuido() {	//modifica comportamiento hacerRuido en esta clase
+        System.out.println("Muuuu");	
     }
-    public void comer() {
+    public void comer() {	//modifica comportamiento comer en esta clase
         System.out.println("Como pasto");
     }
 }
